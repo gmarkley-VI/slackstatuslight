@@ -3,6 +3,8 @@ Description=Slack Status Light
 After=multi-user.target
 
 [Service]
+Environment="SLACK_API_TOKEN="
+Environment="SLACK_USER_ID="
 Type=simple
 ExecStart=/usr/bin/python3 /home/pi/slackstatuslight/slackstatuslight.py
 Restart=on-abort
