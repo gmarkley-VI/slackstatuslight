@@ -16,12 +16,6 @@ sudo systemctl daemon-reload
 sudo systemctl enable slackstatuslight.service
 sudo systemctl start slackstatuslight.service`
 
-`sudo chmod 644 /letc/systemd/system/slackstatuslight.service
-chmod +x /home/pi/slackstatuslight.py
-sudo systemctl daemon-reload
-sudo systemctl enable slackstatuslight.service
-sudo systemctl start slackstatuslight.service`
-
 ###General Commands
 **Check status**
 `sudo systemctl status hello.service`
