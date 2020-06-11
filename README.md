@@ -3,13 +3,13 @@ This is a small project to connect two leds powered by a Pi to reflect status wh
 Add more details here when completed.
 
 Here is the board pin outs to use for this.
-<img src="pic/board.jpg">
+<img src="pics/board.jpg">
 
 Here is the board mounted to the wall and wired up
-<img src="pic/mount.jpg">
+<img src="pics/mount.jpg">
 
 Here is the light off
-<img src="pic/off.jpg">
+<img src="pics/off.jpg">
 
 And last but not least here is the light on
-<img src="pic/on.jpg">
+<img src="pics/on.jpg">
