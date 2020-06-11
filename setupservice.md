@@ -6,8 +6,6 @@ Make sure to add your API token and UserID in the service file.
 
 `sudo chmod 644 /etc/systemd/system/slackstatuslight.service`
 
-`chmod +x /home/pi/slackstatuslight.py`
-
 `sudo systemctl daemon-reload`
 
 `sudo systemctl enable slackstatuslight.service`
