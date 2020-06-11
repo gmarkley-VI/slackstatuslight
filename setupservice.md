@@ -18,13 +18,13 @@ sudo systemctl start slackstatuslight.service`
 
 ###General Commands
 **Check status**
-`sudo systemctl status hello.service`
+`sudo systemctl status slackstatuslight.service`
 
 **Start service**
-`sudo systemctl start hello.service`
+`sudo systemctl start slackstatuslight.service`
 
 **Stop service**
-`sudo systemctl stop hello.service`
+`sudo systemctl stop slackstatuslight.service`
 
 **Check service's log**
-`sudo journalctl -f -u hello.service`
+`sudo journalctl -f -u slackstatuslight.service`
