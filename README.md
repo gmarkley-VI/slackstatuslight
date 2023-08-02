@@ -1,3 +1,5 @@
+#Old Project Moving to Archive
+
 # slackstatuslight
 Have you ever wanted to let your family know when you're on a call? But want to keep the door open to let the summer air flow through. Well, you're in luck. This hack and hustle project did precisely that. Credit goes to my wife for asking me to tackle this one.
   Slack has an excellent integration with google calendar to auto-set your status based on your current meetings. I know you can go to Google directly. But I wanted the option to have an easy override for impromptu conversations that tend to start in slack. So I decided to use the slack API and status to notify my door light when I was busy or in a meeting.
